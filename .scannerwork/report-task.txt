@@ -1,0 +1,6 @@
+projectKey=sleroy:reactjs-demo
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/sleroy:reactjs-demo
+ceTaskId=AWLeBebuQEbx-d0USseT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWLeBebuQEbx-d0USseT
